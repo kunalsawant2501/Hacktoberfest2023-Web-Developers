@@ -18,7 +18,7 @@ In this repository, we're building something extraordinary, and we want YOU to b
 📚 Learn and Grow: Collaborating with fellow developers and working on real projects is the best way to learn and improve your skills. We're all about personal and professional growth.
 
 
-### How to get started
+### How to get started..
 
 We welcome contributions from developers of all levels! To get started:
 
